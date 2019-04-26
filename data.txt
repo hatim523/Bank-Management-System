@@ -1,0 +1,14 @@
+
+$current$	0x70e878*current52*
+$saving$	0x70e878*saving52*
+$manager$	0x70e878*manager52*
+$employee1$	0x70e818*employee152*
+$sheryar$	0x70e7f8*12345678*
+$test123$	0x70e7f8*password123*
+$hatim123$	0x70e7f8*hatim522*
+$employeetest$	0x70e738*12345678*
+$aijaz$	0x70e738*987654321*
+$employee11$	0x70e738*anaskhan*
+$qwerty$	0x70e738*aijazsahab*
+$managerrr$	0x70e898*awdawfwaf*
+$anaskhan$	0x70e818*anasahmed*
